@@ -162,7 +162,7 @@ html {
     max-width: 900px;
     margin-left: auto;
     margin-right:auto;
-    padding: 64px 16px 112px;
+    padding: 64px 16px 64px;
 }
 
 .content-section .section-heading {
@@ -239,7 +239,6 @@ html {
     float: right;
     background-color: black;
     border-radius: 50%;
-    display: inline-block;
     padding: 0px 8px;
     text-align: center;
 }
